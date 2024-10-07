@@ -1,9 +1,9 @@
-  =>  Template Name    : AirCon - AC Repair Website Template
+  =>  WEBSITE  Name    : COOLITY
 
-  =>  Template Link    : https://htmlcodex.com/ac-repair-website-template
+  =>  WEBSITE Link    : Will Be update
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+  =>  WEBSITE License : https://rksoftwebsolutions.com/license (or read the LICENSE.txt file)
 
-  =>  Template Author  : HTML Codex
+  =>  WEBSITE Author  : GOKUL S
 
-  =>  Author Website   : https://htmlcodex.com
+  =>  Author Website   : RK SOFTWEB SOLUTIONS
