@@ -1,6 +1,6 @@
   =>  WEBSITE  Name    : COOLITY
 
-  =>  WEBSITE Link    : Will Be update
+  =>  WEBSITE Link    : www.coolity.in
 
   =>  WEBSITE License : https://rksoftwebsolutions.com/license (or read the LICENSE.txt file)
 
